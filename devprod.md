@@ -4,7 +4,8 @@
 #### Public webpage explaining DevOps on Azure using GitHub
 #### Best practices and reusable IP
 #### Practice charter document
-#### DevOps Readiness plan and roadmap
+#### DevSecOps Readiness plan and roadmap
+#### GitHub COpilot adoption framework
 #### 2 items from
 * _Documented DevOps processes_
 * _Customer assessment plan_
@@ -76,6 +77,8 @@
 * Physical and Logical diagrams
 
 ### <span style="background-color:silver; color:black">📝 Partners without active Kubernentes / Migrate Enterprise Apps need 2 more customers (these additional 2 doesn't have to use GitHub)</span>
+
+### <span style="background-color:silver; color:black">📝 GitHub Copilot must be leveraged in at least 1 of the 3 selected design areas</span>
 
 ## Delivery
 ### Customer A
